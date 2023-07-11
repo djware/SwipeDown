@@ -13,3 +13,5 @@ You can adjust the settings by clicking on the System Tray icon and right click 
 ![image](https://github.com/djware/SwipeDown/assets/85318457/491cad21-06db-4d37-a49b-dc71ad5805a8)
 
 To adjust the program path enter in the full directory to it. 
+
+When choosing between path or key combination make sure to select save after choosing the option. 
